@@ -5,5 +5,5 @@
 
 - go-cache
   - [教程](https://mp.weixin.qq.com/s/3t3J5PsSEI2c_R51Q-XP6g)
-  - [源码](https://github.com/kevinyan815/design-pattern-by-go/tree/master/src/singleton)
+  - [源码](https://github.com/Seekload/shousi-source-go/blob/main/src/1.go-cache/main.go)
 
